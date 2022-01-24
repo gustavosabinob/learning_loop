@@ -6,3 +6,4 @@ Salem
 Teste
 Leila
 Poste
+Teste Fetch
