@@ -6,3 +6,5 @@ Pedro
 Orlande
 Iana
 Jessica
+Pedro
+Renato
