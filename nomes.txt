@@ -1,12 +1,5 @@
 [txt de nomes para teste]
 
-Renato
-Lucas
-Sabino
-Orlande
-Iana
-Jessica
-Pedro
-Gabrielly
-Fábio
+Salem
+Zuko
 
