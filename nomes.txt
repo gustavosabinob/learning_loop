@@ -1,5 +1,6 @@
 [txt de nomes para teste]
 
+Lucas
 Sabino
 Pedro
 Jessica
